@@ -1,0 +1,5 @@
+Fixed oracle bone staff completely.
+Added new textures for grimoire and special fire particles.
+SpecialHallway finally fixed.
+Fixed Teleport Spell.
+Added Return to Death spot spell.

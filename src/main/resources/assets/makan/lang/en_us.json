@@ -1,0 +1,12 @@
+{
+  "item.makan.oracle_bone": "Oracle Bone",
+  "item.makan.activated_oracle_bone": "Activated Oracle Bone",
+  "item.makan.oracle_bone_staff": "Oracle Bone Staff",
+  "item.makan.grimoire": "Grimoire",
+  "key.makan.cast": "Cast Spell",
+  "key.makan.turn_left": "Turn Drawing Screen Left",
+  "key.makan.turn_right": "Turn Drawing Screen Right",
+  "key.makan.cycle": "Cycle Top 5 kanji matches",
+  "key.makan.next_spell_slot": "Next Spell Slot"
+  
+}
